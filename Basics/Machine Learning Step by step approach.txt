@@ -1,0 +1,16 @@
+1) Import the Data
+2) Clean the Data
+3) Split the data into Training / Testing Data
+4) Create a Model
+5) Train the Model
+6) Make Predictions
+7) Evaluate and Improve
+
+
+
+Libraries
+
+Numpy - multidimensional Array
+Pandas - data analysis [ DATA FRAME ]
+Matplotlib  
+Scikit-Learn - ML libraries.. provides many algorithms like decision trees, nueral networks etc
